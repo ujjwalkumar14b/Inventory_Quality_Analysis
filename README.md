@@ -45,8 +45,6 @@ Inventory_Quality_Analysis/
 └── README.md
 ```
 
----
-
 ## Deep Learning Pipeline
 
 ### 1. Data Preprocessing
