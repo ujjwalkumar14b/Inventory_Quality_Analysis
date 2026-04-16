@@ -1,5 +1,7 @@
 # Inventory Quality Analysis
 
+![Deployment Screenshot](deployment.png)
+
 ## Overview
 
 This project implements a Deep Learning-based Inventory Quality Analysis system using a Convolutional Neural Network (CNN). The model classifies product images into two categories:
