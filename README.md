@@ -13,7 +13,7 @@ The solution includes:
 * Web deployment using Flask and Bootstrap
 
 ## Dataset
-The dataset is organized into directory structure format:
+The dataset is organized into directory structure format: [Data Link](https://www.kaggle.com/code/dhanyabahadur/product-classification)
 
 ```
 data/
