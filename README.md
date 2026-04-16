@@ -81,13 +81,11 @@ Model performance is visualized using:
 ### 5. Model Saving
 The trained model is saved as Inventory_Quality_Analysis.h5
 
-
 ## Web Application Features
 * Image upload interface
 * Real-time prediction
 * Displays uploaded image
 * Shows prediction result (Defective / Non-Defective)
-
 
 ## Installation
 ```
